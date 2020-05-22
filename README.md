@@ -2,7 +2,7 @@
 真央ゼミのWebサイト用リポジトリです。
 
 #メンバー
-孤独な子羊
+孤独な子羊  Raspberry Piへの修正反映確認用に文言変更した。
 
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
